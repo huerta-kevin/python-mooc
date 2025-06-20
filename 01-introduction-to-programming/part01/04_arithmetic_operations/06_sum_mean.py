@@ -2,7 +2,6 @@
 # then prints out the sum and the mean of the numbers.
 
 # The program should function as follows:
-
 # Number 1: 2
 # Number 2: 1
 # Number 3: 6

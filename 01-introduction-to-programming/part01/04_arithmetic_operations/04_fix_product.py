@@ -4,7 +4,6 @@
 # if you run it. Please fix it.
 
 # An example of the expected execution of the program:
-
 # Please type in the first number: 2
 # Please type in the second number: 3
 # Please type in the third number: 5

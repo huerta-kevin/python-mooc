@@ -1,5 +1,5 @@
-# Please write a program which asks for the user's name and address. The program
-# should also print out the given information, as follows:
+# Please write a program which asks for the user's name and address. The
+# program should also print out the given information, as follows:
 
 # Given name: Steve
 # Family name: Sanders

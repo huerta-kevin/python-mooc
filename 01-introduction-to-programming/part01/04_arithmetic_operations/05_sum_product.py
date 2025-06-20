@@ -2,7 +2,6 @@
 # then print out the sum and the product of the two numbers.
 
 # The program should function as follows:
-
 # Number 1: 3
 # Number 2: 7
 # The sum of the numbers: 10

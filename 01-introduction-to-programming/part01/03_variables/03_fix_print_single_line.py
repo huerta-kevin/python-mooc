@@ -6,7 +6,6 @@
 #
 # print("Hi ", end="")
 # print("there!")
-
 # Hi there!
 
 # Please fix this program so that the entire calculation, complete with result, is

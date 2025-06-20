@@ -1,5 +1,5 @@
-# Please write a program which prints out the following lines exactly as they are written
-# here, punctuation and all:
+# Please write a program which prints out the following lines exactly as they are
+# written here, punctuation and all:
 
 # Row, row, row your boat,
 # Gently down the stream.
